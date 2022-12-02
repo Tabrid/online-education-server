@@ -1,0 +1,117 @@
+[
+    {
+        "id": 1,
+        "course_name": "Physic",
+        "description": "Pick your favourite quote from the list below, and stick it up in large letters somewhere you’ll see every time you study!",
+        "img": "https://i.ibb.co/S7YMqtL/download.png",
+        "price": "5000",
+        "new_arival": "true",
+        "course_outline": [
+            "introduction",
+            "use of physic",
+            "Understanding physic",
+            "quiz",
+            "weekly exam ",
+            "full book revision",
+            "question bank solve"
+        ],
+        "Schedule": "Tuesday to Wednesday 01:00 PM - 02:00 PM ",
+        "Starts": "Starts from jan 01, 2023"
+    },
+    {
+        "id": 2,
+        "course_name": "Chemistry",
+        "description": "Pick your favourite quote from the list below, and stick it up in large letters somewhere you’ll see every time you study!",
+        "img": "https://i.ibb.co/rwgn0SH/download-2.jpg",
+        "price": "5000",
+        "new_arival": "",
+        "course_outline": [
+            "introduction",
+            "use of chemistry",
+            "Understanding chemistry",
+            "quiz",
+            "weekly exam ",
+            "full book revision",
+            "question bank solve"
+        ],
+        "Schedule": "Friday to Saturday 02:00 PM - 03:00 PM",
+        "Starts": "Starts from Jan 01, 2023"
+    },
+    {
+        "id": 3,
+        "course_name": "Biology",
+        "description": "Pick your favourite quote from the list below, and stick it up in large letters somewhere you’ll see every time you study!",
+        "img": "https://i.ibb.co/n0303zC/images-2.jpg",
+        "price": "2000",
+        "new_arival": "true",
+        "course_outline": [
+            "introduction",
+            "use of biology",
+            "Understanding biology",
+            "quiz",
+            "weekly exam ",
+            "full book revision",
+            "question bank solve"
+        ],
+        "Schedule": "Monday to Friday 03:00 PM - 05:00 PM",
+        "Starts": "Starts from March 01, 2023"
+    },
+    {
+        "id": 4,
+        "course_name": "Math",
+        "description": "Pick your favourite quote from the list below, and stick it up in large letters somewhere you’ll see every time you study!",
+        "img": "https://i.ibb.co/19xRQdf/download-3.jpg",
+        "price": "7000",
+        "new_arival": "true",
+        "course_outline": [
+            "introduction",
+            "use of math",
+            "Understanding math",
+            "quiz",
+            "weekly exam ",
+            "full book revision",
+            "question bank solve"
+        ],
+        "Schedule": "Sunday to Wednesday 09:00 PM - 11:00 PM",
+        "Starts": "Starts from Jan 01, 2023"
+    },
+    {
+        "id": 5,
+        "course_name": "Higher Math",
+        "description": "Pick your favourite quote from the list below, and stick it up in large letters somewhere you’ll see every time you study!",
+        "img": "https://i.ibb.co/JCBtgPQ/images-3.jpg",
+        "price": "5000",
+        "new_arival": "true",
+        "course_outline": [
+            "introduction",
+            "use of higher math",
+            "Understanding higher math",
+            "quiz",
+            "weekly exam ",
+            "full book revision",
+            "question bank solve"
+        ],
+        "Schedule": "Sunday to Wednesday 05:00 PM - 07:00 PM",
+        "Starts": "Starts from Jan 01, 2023"
+    },
+    {
+        "id": 6,
+        "course_name": "ICT",
+        "description": "Pick your favourite quote from the list below, and stick it up in large letters somewhere you’ll see every time you study!",
+        "img": "https://i.ibb.co/5R9w34Z/download-4.jpg",
+        "price": "3000",
+        "new_arival": "",
+        "course_outline": [
+            "introduction",
+            "use of ICT",
+            "Understanding ICT",
+            "quiz",
+            "weekly exam ",
+            "full book revision",
+            "question bank solve"
+        ],
+        "Schedule": "Sunday to Wednesday 07:00 PM - 09:00 PM",
+        "Starts": "Starts from Jan 01, 2023"
+    }
+  
+]
